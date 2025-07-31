@@ -1,11 +1,13 @@
 # deadfish_interperter
 A deadfish interperter that has some additional feature
 
+# How to use
+
 use  `./df_interperter run`  to run the interperter
 
 use  `./df_interperter interpert [file_path]`  to interpert a .df file
 
-# command list
+# Command list
 
 | Command | Action                           |
 | ------- | -------------------------------- |
